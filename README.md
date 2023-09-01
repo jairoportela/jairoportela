@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jairoportela
-- 👀 I’m interested in mobile development, web development, devops.
-- 🌱 I’m currently learning Javascript, NodeJS, Flutter, MongoDB, SQL.
+- 👀 I’m interested in mobile development and web development
+- 💼 I’m currently working developing mobile apps in Imagine Apps, my stack is Flutter, Dart, Javascript, MongoDb.
+- 🌱 I’m currently learning MySql and React
 - 📫 How to reach me: https://www.linkedin.com/in/jairoaportela/
 
 <!---
